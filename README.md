@@ -1,4 +1,4 @@
-## Project Title: Fixed Deposit (FD) Calculator Webpage
+## Fixed Deposit (FD) Calculator Webpage
 
 ### Project Description:
 
